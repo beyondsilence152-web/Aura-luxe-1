@@ -1,0 +1,6 @@
+{
+  "name": "Aura Luxe",
+  "description": "An exquisite premium luxury jewelry homepage for Aura Luxe, featuring a black and gold aesthetic, curated collections, interactive best-sellers, custom cart and wishlist, luxury customer care, and fluid motion animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
